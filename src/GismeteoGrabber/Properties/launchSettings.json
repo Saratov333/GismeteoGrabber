@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GismeteoGrabber": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
